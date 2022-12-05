@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+.image1{
+    text-align: left;
+    border-radius: 6px;
+    width: 680px;
+}
+.title{
+    width: 150px;
+}
+#ingredients, .align{
+    text-align: left;
+    padding: 0 330px;
+}
+.upper{
+    font-size: 25px;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color:#a4c8f8;
+    color: rgb(92, 91, 91);
+}
+a:link{
+    color: green;
+}
+a:visited{
+    color: rgb(233, 41, 175);
+}
+a:active{
+    color: darkorange;
+}
+.featured{
+    padding-left: 10px;
+    border-left: 1px;
+    border-left-style: solid;
+    border-left-color: orange;
+    color: orange;
+}
+#gradient{
+    background-color: rgb(253, 253, 215);
+    padding: 10px;
+    border-top: 1px;
+    border-color: orange;
+    border-top-style: solid;
+}
